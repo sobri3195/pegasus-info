@@ -262,6 +262,33 @@ Free untuk penggunaan edukasi dan riset.
 - Tidak menyimpan data pribadi
 - Data hanya dari sumber publik
 
+## 👨‍💻 Author
+
+**Lettu Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**
+
+- 📧 **Email:** muhammadsobrimaulana31@gmail.com
+- 🐙 **GitHub:** [@sobri3195](https://github.com/sobri3195)
+
+### 🔗 Links & Media
+
+#### Donation & Support
+- **Lynk.id:** [lynk.id/muhsobrimaulana](https://lynk.id/muhsobrimaulana)
+- **Trakteer:** [trakteer.id/g9mkave5gauns962u07t](https://trakteer.id/g9mkave5gauns962u07t)
+- **Gumroad:** [maulanasobri.gumroad.com](https://maulanasobri.gumroad.com/)
+- **KaryaKarsa:** [karyakarsa.com/muhammadsobrimaulana](https://karyakarsa.com/muhammadsobrimaulana)
+- **Nyawer:** [nyawer.co/MuhammadSobriMaulana](https://nyawer.co/MuhammadSobriMaulana)
+
+#### Social Media & Contact
+- **YouTube:** [@muhammadsobrimaulana6013](https://www.youtube.com/@muhammadsobrimaulana6013)
+- **Telegram:** [@winlin_exploit](https://t.me/winlin_exploit)
+- **TikTok:** [@dr.sobri](https://www.tiktok.com/@dr.sobri)
+- **WhatsApp Group:** [Join Group](https://chat.whatsapp.com/B8nwRZOBMo64GjTwdXV8Bl)
+
+#### Websites & Services
+- **Personal Website:** [muhammadsobrimaulana.netlify.app](https://muhammadsobrimaulana.netlify.app)
+- **Portfolio:** [muhammad-sobri-maulana-kvr6a.sevalla.page](https://muhammad-sobri-maulana-kvr6a.sevalla.page/)
+- **Toko Online:** [pegasus-shop.netlify.app](https://pegasus-shop.netlify.app)
+
 ---
 
 **Pegasus Info** - News Intelligence System
